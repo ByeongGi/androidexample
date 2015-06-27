@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">t087JSONParser</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="strxml"> 
+	    [{"name":"서민규","age":28,"address":"경기"}, 
+	    {"name":"류현진","age":29,"address":"에레이"},
+	    {"name":"홍길동","age":36,"address":"둘리네"}] </string>
+</resources>
